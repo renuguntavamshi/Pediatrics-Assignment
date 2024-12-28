@@ -1,0 +1,42 @@
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 18px;
+}
+.padding20px{
+  padding: 20px;
+}
+.tableContainerStyle{
+/* css for tablecontainer */
+  overflow-x:  auto;
+  margin:1vw; 
+  max-width: 98vw;
+}
+.tableborder{
+/* css for tableborder*/
+   border: 2px solid grey
+}
+.tableHead{
+/* css for tablehead */
+   background-color: red; 
+   font-weight: bolder;
+   color:white
+
+  }
+.whitecolor{
+  color:white
+}
+.textAlignCenter{
+  text-align: center;
+}
+.Links{
+  color:black;
+  text-decoration:underline
+}
+.box{  
+  /* css for managing the dialog box */
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  justify-content:center;
+  min-height:200px
+}
